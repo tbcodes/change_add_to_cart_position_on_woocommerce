@@ -1,5 +1,6 @@
 /*
 * TruzzBlogg - WooCommerce
+* Youtube Video: https://youtu.be/Msazcf_ZNBw
 * Move add to cart button above the description - WooCommerce
 * woocommerce_single_product_summary hook
 *@hooked woocommerce_template_single_title - 5
